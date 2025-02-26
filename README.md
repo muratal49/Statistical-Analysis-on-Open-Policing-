@@ -77,7 +77,7 @@ Usage
 To run the analysis, clone this repository and execute the following steps:
 
 # Clone the repository
-git clone https://github.com/muratal49/Statistical-Analysis-on-Open-Policing.git
+git clone https://github.com/muratal49/Statistical-Analysis-on-Open-Policing-.git
 
 # Navigate to the project directory
 cd open-policing-analysis
