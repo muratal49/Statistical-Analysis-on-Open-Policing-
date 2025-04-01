@@ -79,19 +79,3 @@ To run the analysis, clone this repository and execute the following steps:
 # Clone the repository
 git clone https://github.com/muratal49/Statistical-Analysis-on-Open-Policing-.git
 
-# Navigate to the project directory
-cd open-policing-analysis
-
-# Install required dependencies
-pip install -r requirements.txt
-
-# Run the analysis script
-python analysis.py
-
-Contributing
-
-Contributions are welcome! Feel free to open issues, submit pull requests, or suggest improvements to enhance the analysis.
-
-License
-
-This project is open-source and available under the MIT License.
